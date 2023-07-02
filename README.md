@@ -2,21 +2,22 @@
 Folder Hierarchy: </br>
 
 
-    .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
+    Prac2Crack_Coders
+    ├── Strivers A2Z DSA Course-Sheet
+    │   ├── Step1 - Learn The Basics
+    |   |   ├── Build up logical thinking
+    |   |   |   ├── Patterns
+    ├── docs
+    ├── src
+    ├── test
+    ├── tools
     ├── LICENSE
     └── README.md
 
-    
-Prac2Crack_Coders </br>
-├── Strivers A2Z DSA Course-Sheet </br>
-│   ├── Step1 - Learn The Basics </br>
-|   |   ├── Build up logical thinking </br>
-|   |   |   ├── Patterns </br>
+ </br>
+ </br>
+ </br>
+ </br>
 |   |   |   |   ├── JAVA </br>
 |   |   |   |   |   ├── Pattern_1 </br>
 |   |   |   |   |   |   ├── src </br>
