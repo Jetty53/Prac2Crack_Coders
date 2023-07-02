@@ -1,5 +1,17 @@
 # Prac2Crack_Coders
 Folder Hierarchy: </br>
+
+
+    .
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md
+
+    
 Prac2Crack_Coders </br>
 ├── Strivers A2Z DSA Course-Sheet </br>
 │   ├── Step1 - Learn The Basics </br>
