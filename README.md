@@ -9,71 +9,71 @@ Folder Hierarchy: </br>
     |   |   |   |   ├── JAVA
     |   |   |   |   |   ├── Pattern_1
     |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
+    |   |   |   |   |   |   |   ├── Method_1.java
     |   |   |   |   |   ├── Pattern_2 </br>
     |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_3 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_4 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_5 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_6 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_7 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_8 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_9 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_10 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_11 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_12 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   |   |   ├── Method_2.java </br>
-    |   |   |   |   |   ├── Pattern_13 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_14 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_15 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_16 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_17 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_18 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_19 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   |   |   |   ├── Pattern_20 </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    |   |   ├── Know Basic Maths </br>
-    |   |   |   ├── GFG </br>
-    |   |   |   |   ├── JAVA </br>
-    |   |   |   |   |   ├── Count Digits </br>
-    |   |   |   |   |   |   ├── src </br>
-    |   |   |   |   |   |   |   ├── Method_1.java </br>
-    │   ├── Step3 - Solve Problems on Arrays [Easy - Medium - Hard] </br>
-    │   └── ... </br>
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_3
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_4
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_5
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_6
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_7
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_8
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_9
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_10
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_11
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_12
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   |   |   ├── Method_2.java
+    |   |   |   |   |   ├── Pattern_13
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_14
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_15
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_16
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_17
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_18
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_19
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   ├── Pattern_20
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   ├── Know Basic Maths
+    |   |   |   ├── GFG
+    |   |   |   |   ├── JAVA
+    |   |   |   |   |   ├── Count Digits
+    |   |   |   |   |   |   ├── src
+    |   |   |   |   |   |   |   ├── Method_1.java
+    │   ├── Step3 - Solve Problems on Arrays [Easy - Medium - Hard]
+    │   └── ...
     └── ... 
