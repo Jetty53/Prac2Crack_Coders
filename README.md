@@ -73,7 +73,7 @@ Folder Hierarchy: </br>
     |   |   |   |   ├── JAVA
     |   |   |   |   |   ├── Count Digits
     |   |   |   |   |   |   ├── src
-    |   |   |   |   |   |   |   ├── Method_1.java
+    |   |   |   |   |   |   |   ├── Main.java
     │   ├── Step3 - Solve Problems on Arrays [Easy - Medium - Hard]
     │   └── ...
     └── ... 
