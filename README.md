@@ -8,9 +8,9 @@ Folder Hierarchy: </br>
     |   |   |   ├── Patterns
     |   |   |   |   ├── JAVA
     |   |   |   |   |   ├── Pattern_1
-    |   |   |   |   |   |   ├── src </br>
+    |   |   |   |   |   |   ├── src
     |   |   |   |   |   |   |   ├── Method_1.java
-    |   |   |   |   |   ├── Pattern_2 </br>
+    |   |   |   |   |   ├── Pattern_2
     |   |   |   |   |   |   ├── src </br>
     |   |   |   |   |   |   |   ├── Method_1.java
     |   |   |   |   |   ├── Pattern_3
